@@ -30,7 +30,7 @@ LeafSnap is designed to counter the growing disconnect between youth and environ
 
 # 🤖 LeafSnap- Overview
 <p align="center">
-  <img src="https://github.com/ibankang/leafsnap/assets/111854504/d37fb595-2c39-4160-92a9-c58bcfef1901" width="1920" height="500" title="LeafSnap App">
+  <img src="https://github.com/ibankang/leafsnap/assets/111854504/442606ca-0f79-4e6a-b9d0-1c23da3900f2" width="1920" height="500" title="LeafSnap App">
 
   <img src="https://github.com/ibankang/leafsnap/assets/111854504/3cb10d5c-ff5f-404b-9aeb-f8080ec009a2" width="1920" height="500" title="LeafSnap- Add new plant">
 
